@@ -1,0 +1,17 @@
+body {
+    background-image: url("../img/dante.jpg");
+
+    background-size: 2100px;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+
+.mi-gato {
+    height: 250px;
+    width: 250px;
+
+}
+
+p{
+    color: red;
+}

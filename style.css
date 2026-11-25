@@ -1,11 +1,11 @@
+    
 
-        
-        
-        body {
-            background: linear-gradient(to bottom, #FFD1DC, #76c4e9);
-            min-height: 100vh;
-            margin: 0;
-        
+body {
+    background: linear-gradient(to bottom, #FFD1DC, #76c4e9);
+    min-height: 100vh;
+    margin: 0;
+}
 
-        
-  }
+h1{
+    color: #b63956;
+}
